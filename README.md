@@ -1,13 +1,13 @@
 # NU_T5_Project_1
 
-# Project Title : Exploring Alternative Fuel Availability in the ChicagoLand Area 
+# Project Title : Exploring Infrustcural Support for Alternative Fuel Availability in the ChicagoLand Area 
 
 # Team Members: Lisa Maccio Marretto, Jesus Vilora Paolini, Patrycja Pekala, Mike Lynch, Peter Austin
 
 
 # Project Description / Outline:
 
-There is a growth movement for EV and we will discover if the ChicagoLand Area is ready to provide / meet the needs. 
+There is a growth movement for switch to Eelectic Vehicles (EV) and we need to discover/determine if the ChicagoLand Area has the infrastructure to meet the needs for EVs. 
 
 # Research Questions to answer:
 
