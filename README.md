@@ -2,7 +2,7 @@
 
 # Project Title : Exploring Alternative Fuel Availability in the ChicagoLand Area 
 
-# Team Members: 
+# Team Members: Lisa Maccio Marretto, Jesus Vilora Paolini, Patrycja Pekala, Mike Lynch, Peter Austin
 
 
 # Project Description / Outline:
