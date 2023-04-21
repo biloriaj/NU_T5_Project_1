@@ -2,7 +2,7 @@
 
 # Project Title : Exploring Infrastructural Support for Alternative Fuel Availability in the ChicagoLand Area 
 
-# Team Members: Lisa Maccio Marretto, Jesus Vilora Paolini, Patrycja Pekala, Peter Austin
+# Team Members: Lisa Maccio Maretto, Jesus Vilora Paolini, Patrycja Pekala, Peter Austin
 
 
 # Project Description / Outline:
